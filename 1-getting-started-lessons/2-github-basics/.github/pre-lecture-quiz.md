@@ -2,7 +2,7 @@
 
 1. How do you create a Git repo?
 
-- [ ] git create
+- [x] git create
 - [ ] git start
 - [ ] git init
 
@@ -10,4 +10,4 @@
 
 - [ ] Commits your code
 - [ ] Adds your files to a staging area for tracking
-- [ ] Adds your files to GitHub
+- [x] Adds your files to GitHub
