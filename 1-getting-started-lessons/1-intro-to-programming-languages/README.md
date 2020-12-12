@@ -24,7 +24,7 @@ Programming (also known as coding) is the process of writing instructions to a d
 A *program* can be anything that is written with code; websites, games, and phone apps are programs. While it's possible to create a program without writing code, the underlying logic is interpreted to the device and that logic was most likely written with code. A program that is *running* or *executing code* is carrying out instructions. The device that you're currently reading this lesson with is running a program to print it to your screen.
 
 ✅ Do a little research: who is considered to have been the world's first computer programmer?
-
+A : Ada Lovelace
 ## Programming Languages
 
 Programming languages serve a main purpose: for developers to build instructions to send to a device. Devices only can understand binary (1s and 0s), and for *most* developers that's not a very efficient way to communicate. Programming languages are a vehicle for communication between humans and computers.
@@ -173,6 +173,11 @@ When a developer wants to learn something new, they'll most likely turn to docum
 - [Frontend Masters](https://frontendmasters.com/learn/)
 
 ✅ Do some research: Now that you know the basics of a web developer's environment, compare and contrast it with a web designer's environment.
+
+# Web desingers
+### Tools
+- UI Design
+- 
 
 ---
 
