@@ -11,3 +11,13 @@ See if you can create a function that has a mix of parameters and parameters wit
 | Criteria | Exemplary                                                                              | Adequate                                                         | Needs Improvement |
 | -------- | -------------------------------------------------------------------------------------- | ---------------------------------------------------------------- | ----------------- |
 |          | Solution is offered with two or more well-performing functions with diverse parameters | Working solution is offered with one function and few parameters | Solution has bugs |
+
+
+
+function ThisReturn() { return 1 * 4 ;}
+
+ThisReturn()
+
+function DoesNotReturn() { 1 * 4 ;}
+
+DoesNotReturn()
