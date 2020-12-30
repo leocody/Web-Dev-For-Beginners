@@ -199,6 +199,10 @@ Now you have completed your project!
 
 Add new event handler to your closure to do something more to the plants; for example, double-click a plant to bring it to the front. Get creative!
 
+- [x] space to make bigger
+- [x] last plant's layer front
+- [ ] double click to jump
+
 ## Post-Lecture Quiz
 
 [Post-lecture quiz](.github/post-lecture-quiz.md)
